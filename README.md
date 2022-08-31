@@ -14,7 +14,7 @@
 
 > Для переноса вашей ноды на другой сервер ознакомьтесь с инструкцией [Перенос валидатора на новый сервер](https://github.com/garaed/Stride/blob/main/migrate_validator.md)
 ## Системные требования
-Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
+Как и для любой цепочки Cosmos-SDK.
 
 ### Минимальные системные требования
  - 4x CPUs;
@@ -30,7 +30,7 @@ Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
 ## Установка фуллноды Stride
 ### Ручная
-You can follow [manual guide](https://github.com/kj89/testnet_manuals/blob/main/stride/manual_install.md) if you better prefer setting up node manually
+Следуйте инструкции для установки ноды [Ручная установка фуллноды](https://github.com/garaed/Stride/blob/main/manual.md)
 
 ## Пост инсталляция
 
