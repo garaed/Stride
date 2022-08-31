@@ -12,7 +12,7 @@
 >-  https://stride.explorers.guru
 
 
-> Для переноса вашей ноды на другой сервер ознакомьтесь с инструкцией [Migrate your validator to another machine](https://github.com/kj89/testnet_manuals/blob/main/stride/migrate_validator.md)
+> Для переноса вашей ноды на другой сервер ознакомьтесь с инструкцией [Перенос валидатора на новый сервер](https://github.com/garaed/Stride/blob/main/migrate_validator.md)
 ## Системные требования
 Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
