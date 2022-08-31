@@ -6,23 +6,27 @@
 
 Оффициальная документация:
 >- [Validator setup instructions](https://github.com/Stride-Labs/testnet)
+
+
 Эксплорер:
 >-  https://stride.explorers.guru
+
+
 > Для переноса вашей ноды на другой сервер ознакомьтесь с инструкцией [Migrate your validator to another machine](https://github.com/kj89/testnet_manuals/blob/main/stride/migrate_validator.md)
 ## Системные требования
 Like any Cosmos-SDK chain, the hardware requirements are pretty modest.
 
 ### Минимальные системные требования
- - 4x CPUs; the faster clock speed the better
+ - 4x CPUs;
  - 8GB RAM
- - 100GB of storage (SSD or NVME)
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
+ - 100GB хранилище (SSD or NVME)
+ - Постоянное интернет соединение (трафик будет минимальным в течении тестнета)
 
 ### Рекомендуемые системные требования 
- - 4x CPUs; the faster clock speed the better
+ - 4x CPUs; 
  - 32GB RAM
- - 200GB of storage (SSD or NVME)
- - Permanent Internet connection (traffic will be minimal during testnet; 10Mbps will be plenty - for production at least 100Mbps is expected)
+ - 200GB хранилище (SSD or NVME)
+ - Постоянное интернет соединение (трафик будет минимальным в течении тестнета)
 
 ## Установка фуллноды Stride
 ### Ручная
